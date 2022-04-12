@@ -3,7 +3,9 @@
 * Must have 'Makefile' compatibility
 
 * To Compile Program:
-">" make
+
+make
 
 * To Run Program:
-">" Calculator
+
+Calculator
