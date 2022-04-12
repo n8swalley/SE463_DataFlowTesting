@@ -2,6 +2,8 @@
 
 * Must have 'Makefile' compatibility
 
-To compile:
-'>' make
-'>' Calculator
+# To compile:
+
+make
+
+Calculator
