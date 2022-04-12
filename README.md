@@ -2,10 +2,10 @@
 
 * Must have 'Makefile' compatibility
 
-* To Compile Program:
+> To Compile Program:
 
 make
 
-* To Run Program:
+> To Run Program:
 
 Calculator
