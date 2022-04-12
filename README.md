@@ -4,8 +4,8 @@
 
 # To Compile Program:
 
->> make
+> make
 
 # To Run Program:
 
->> Calculator
+> Calculator
