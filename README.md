@@ -2,8 +2,8 @@
 
 * Must have 'Makefile' compatibility
 
-# To compile:
-
+# To Compile Program:
 make
 
+# To Run Program:
 Calculator
