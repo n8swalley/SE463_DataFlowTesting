@@ -1,0 +1,9 @@
+workspace (SingleProjectWorkspace)
+{
+    Calculator.mpc
+    ./Calculator
+}
+workspace (AllFilesWorkspace)
+{
+
+}

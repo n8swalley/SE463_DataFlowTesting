@@ -1,0 +1,21 @@
+project(Calculator) {
+    exename = Calculator
+
+    Source_Files {
+        Driver.cpp
+        Add_Command.cpp
+        Subtract_Command.cpp
+        Modulus_Command.cpp
+        Multiply_Command.cpp
+        Divide_Command.cpp
+        Stack_Expr_Command_Factory.cpp
+        Binary_Operation_Command.cpp
+        Number_Command.cpp
+    }
+
+    Header_Files {
+        Expr_Command.h
+        Expr_Command_Factory.h
+    }
+
+}
