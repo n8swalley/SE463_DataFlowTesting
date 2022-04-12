@@ -3,5 +3,5 @@
 * Must have 'Makefile' compatibility
 
 To compile:
-  make
-  Calculator
+> make
+> Calculator
